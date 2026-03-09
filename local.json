@@ -1,0 +1,14 @@
+[
+  {
+    "domain":"situs-lokal-saya.com",
+    "ip_address":"192.168.1.100"
+  },
+  {
+    "domain":"website-lain.local",
+    "ip_address":"127.0.0.1"
+  },
+  {
+    "domain":"healthandbeauty.my.id",
+    "ip_address":"172.16.103.242"
+  }
+]

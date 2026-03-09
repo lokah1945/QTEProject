@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://healthandbeauty.my.id/judul-artikel-baru-anda-disini",
+    "referrers": [
+      "https://www.google.com/search?q=keyword+baru",
+      "https://www.pinterest.com/search/pins/?q=topik+baru",
+      "https://t.co/",
+      "https://l.facebook.com/"
+    ]
+  },
+  {
+    "url": "https://healthandbeauty.my.id/artikel-kedua-yang-mau-ditambah",
+    "referrers": [
+      "https://www.google.com/",
+      "https://www.bing.com/"
+    ]
+  }
+]

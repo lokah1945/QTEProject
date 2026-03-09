@@ -1,0 +1,29 @@
+{
+  "target_links": [
+    {
+      "url": "https://www.effectivegatecpm.com/purn11tmx?key=14ab7942a992b650f5aa02a46f4be2d0",
+      "referrers": [
+        {
+          "source": "https://l.facebook.com/",
+          "label": "Facebook",
+          "weight": 70
+        },
+        {
+          "source": "https://t.co/",
+          "label": "Twitter",
+          "weight": 23
+        },
+        {
+          "source": "https://www.youtube.com/",
+          "label": "YouTube",
+          "weight": 5
+        },
+        {
+          "source": "https://www.instagram.com/",
+          "label": "Instagram",
+          "weight": 50
+        }
+      ]
+    }
+  ]
+}
